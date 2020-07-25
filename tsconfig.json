@@ -4,8 +4,7 @@
     "bower_components",
     "jspm_packages",
     "dist",
-    "src/examples",
-    "src/typedefs.d.ts", /* type definishions for github */
+    "src/examples"
   ],
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig.json to read more about this file */

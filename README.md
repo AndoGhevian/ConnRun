@@ -62,6 +62,8 @@ That's It, hop this will be useful for you
 ## TypeDefinitions
 > See [typedefs][typedefs]
 
+You Can Get ConnRun either as default export or named export... And if writing with _vanila javascript_, using `const ConnRun = require('connrun')` you not getting features like intelliSence, try to use named exports: `const { ConnRun } = require('connrun')`
+
 [node-mongodb-native]: https://mongodb.github.io/node-mongodb-native/
-[typedefs]: https://github.com/AndoGhevian/ConnRun/tree/master/src/typedefs.d.ts
+[typedefs]: https://github.com/AndoGhevian/ConnRun/tree/master/dist/index.d.ts
 [examples]: https://github.com/AndoGhevian/ConnRun/tree/master/src/examples
