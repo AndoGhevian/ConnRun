@@ -25,9 +25,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "form-data": "^3.0.0",
-    "mongodb": "^3.5.9",
-    "node-fetch": "^2.6.0"
+    "mongodb": "^3.5.9"
   },
   "devDependencies": {
     "@types/mongodb": "^3.5.25",
