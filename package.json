@@ -4,7 +4,7 @@
   "description": "Easily connect to mongodb, and run what you want to run!",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build",
@@ -18,7 +18,11 @@
     "run",
     "db"
   ],
-  "author": "AndoGhevian",
+  "author": "Ando",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndoGhevian/ConnRun.git"
+  },
   "license": "ISC",
   "dependencies": {
     "form-data": "^3.0.0",

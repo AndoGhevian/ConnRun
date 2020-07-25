@@ -63,5 +63,5 @@ That's It, hop this will be useful for you
 > See [typedefs][typedefs]
 
 [node-mongodb-native]: https://mongodb.github.io/node-mongodb-native/
-[typedefs]: https://github.com/AndoGhevian/ConnRun/tree/master/src/
+[typedefs]: https://github.com/AndoGhevian/ConnRun/tree/master/src/typedefs.d.ts
 [examples]: https://github.com/AndoGhevian/ConnRun/tree/master/src/examples
