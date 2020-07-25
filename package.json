@@ -1,6 +1,6 @@
 {
   "name": "connrun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily connect to mongodb, and run what you want to run!",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
